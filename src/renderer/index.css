@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #app {
+  height: 100%
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* text-align: center; */
+  color: #2c3e50;
+  padding: 0;
+}
+
+button, a, input, textarea, i[role~="button"], .no-drag {
+  -webkit-app-region: no-drag;
+}
+
+.framebtn {
+  display: inline-block;
+  -webkit-app-region: no-drag;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
