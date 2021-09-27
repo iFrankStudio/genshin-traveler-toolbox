@@ -14,7 +14,7 @@
 
 - 目前只做了祈愿记录分析，只要点几下就能看到结果啦！
 
-![祈愿记录功能演示](./blob/master/doc/IMG/feature_gacha.gif)
+![祈愿记录功能演示](./doc/IMG/feature_gacha.gif)
 
 ### TO-DO
 
@@ -46,7 +46,7 @@
 
 ## License
 
-[MIT License](./blob/master/LICENSE)
+[MIT License](./LICENSE)
 
 > 虽然但是，希望不要被人**直接**拿去卖钱或者干什么坏事吧...这里不收费也没广告的惹
 
