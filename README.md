@@ -2,6 +2,8 @@
 
 > 向着星辰，与深渊
 
+![build workflow state](https://github.com/iFrankStudio/genshin-traveler-toolbox/actions/workflows/build.yml/badge.svg)
+
 献给各位[《原神》](https://ys.mihoyo.com/)提瓦特世界的旅行者们！
 
 希望大家喜欢~
