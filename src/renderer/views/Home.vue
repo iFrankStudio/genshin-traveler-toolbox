@@ -25,6 +25,7 @@
         @click="runClient(client.game.exePath)"
         launcher
       />
+      <p v-if="clients.length === 0">您的电脑似乎没装原神呢</p>
     </div>
     <div
       class="

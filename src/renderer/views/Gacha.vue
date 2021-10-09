@@ -58,6 +58,9 @@
         @recheck="check"
         @clickOnClient="routeToAnalysisPage(validGachaLog[client.type])"
       />
+      <p v-if="clients.length === 0">
+        系统中未安装原神，您可以点击上方加号手动输入祈愿地址进行分析。
+      </p>
     </main>
     <footer class="px-28 flex underline">
       <span>使用提示：</span>
