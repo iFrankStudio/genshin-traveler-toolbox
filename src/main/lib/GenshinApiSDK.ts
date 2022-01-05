@@ -82,7 +82,7 @@ export class GachaLogApi extends BaseGenshinApi {
     this.resetPage()
     do {
       logsNum = await this.getLogsOfPage()
-      sleep(1)
+      await sleep(1)
     } while (logsNum === this.pageParams.size)
     return this.data
   }
