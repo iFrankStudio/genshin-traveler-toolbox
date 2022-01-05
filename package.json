@@ -1,6 +1,6 @@
 {
   "name": "genshin-traveler-toolbox",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A toolbox for Genshin Impack. Build with Electron and Vue3.",
   "repository": "github:iFrankStudio/genshin-traveler-toolbox",
   "homepage": "https://github.com/iFrankStudio/genshin-traveler-toolbox",
